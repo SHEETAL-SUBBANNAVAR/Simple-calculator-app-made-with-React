@@ -21,7 +21,7 @@ function App() {
 
     else{
       const newDisplayValue =calVal + buttonText;
-      setCalVal(newDisplayValue)
+      setCalVal(newDisplayValue) ;
     }                                
   }
   return (
